@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       title: "Users",
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.lightGreen,
+        primarySwatch: Colors.deepPurple,
       ),
       home: HomePage(),
     );
